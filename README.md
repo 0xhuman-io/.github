@@ -10,9 +10,9 @@
     Anti-Sybil resistance via Soulbound Tokens (SBT) and Zero-Knowledge Proofs.
   </p>
 
-  <a href="https://0xhuman.io"><strong>🌐 Website</strong></a> · 
-  <a href="https://twitter.com/0xhuman_io"><strong>🐦 Twitter</strong></a> · 
-  <a href="https://github.com/0xhuman-io/whitepaper"><strong>📜 Whitepaper</strong></a>
+  <a href="https://0xhuman.io"><strong>Website</strong></a> · 
+  <a href="https://twitter.com/0xhuman_io"><strong>X</strong></a> · 
+  <a href="https://github.com/0xhuman-io/whitepaper"><strong>Whitepaper</strong></a>
 </div>
 
 ---
