@@ -5,7 +5,7 @@
     <img src="https://github.com/0xhuman-io/.github/raw/main/banner.png" alt="0xHuman DNA Banner" width="100%" />
   </a>
   
-  <h3>Trust, but verify.</h3>
+  <h3>Verify Humanity.</h3>
   
   <p>
     The sovereign layer for biological identity in the Synthetic Era.<br>
