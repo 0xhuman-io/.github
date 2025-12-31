@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/0xhuman-io/.github/raw/main/banner.png" target="_blank">
-    <img src="https://github.com/0xhuman-io/.github/raw/main/banner.png" alt="0xHuman DNA Banner" width="100%" />
+    <img src="https://github.com/0xhuman-io/.github/raw/main/banner.pn" alt="0xHuman DNA Banner" width="100%" />
   </a>
   
   <h3>Verify Humanity.</h3>
