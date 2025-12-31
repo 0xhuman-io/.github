@@ -36,7 +36,7 @@ We are replacing the centralized authority with a biological blockchain of trust
 The protocol does not dictate *how* verification occurs, only the economic consequences of a false one.
 * **Dynamic Validation:** The specific proof of humanity is established between peers. This variability renders standardized AI attacks ineffective.
 * **Privacy First:** Verification happens off-protocol (Signal, P2P, In-person). 0xHuman only records the settlement (The Signature).
-* **Anti-Abuse:** Safeguards against Uplink abuse and coercion are integral to the protocol's logic, ensuring verification remains fair and consensual.
+* **Anti-Abuse:** We implement a **"Right to Exit"** logic. Candidates can unilaterally reject an assigned Uplink and request a re-roll without penalty, preventing coercion or stalling.
 
 #### 3. Permissionless Access
 Anyone can acquire the token ($0xH). Only those who stake value ("Vital Bond") and pass the verification challenge receive the **0xPassport** (SBT).
