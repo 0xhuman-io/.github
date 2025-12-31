@@ -1,15 +1,15 @@
-# 0xHuman Protocol
+# 0xHuman
 
 <div align="center">
   <a href="https://github.com/0xhuman-io/.github/raw/main/banner.png" target="_blank">
-    <img src="https://github.com/0xhuman-io/.github/raw/main/banner.png" alt="0xHuman DNA Banner" width="100%" />
+    <img src="https://github.com/0xhuman-io/.github/raw/main/banner.png" alt="0xHuman Analog Standard" width="100%" />
   </a>
   
-  <h3>Verify Humanity.</h3>
+  <h3>Identity without Identification.</h3>
   
   <p>
-    The sovereign layer for biological identity in the Synthetic Era.<br>
-    Anti-Sybil resistance via Soulbound Tokens (SBT) and Zero-Knowledge Proofs.
+    The analog verification layer for the digital age.<br>
+    Distinguishing biological humans from synthetic agents via <strong>Sovereign Verification</strong> and economic consensus.
   </p>
 
   <a href="https://0xhuman.io"><strong>Website</strong></a> · 
@@ -19,21 +19,44 @@
 
 ---
 
-### 🧬 The Mission
-We are building a decentralized standard to distinguish humans from **any automated system or synthetic entity** on the EVM ecosystem. **0xHuman** allows users to prove their existence without revealing their identity.
+### 🕯️ The Manifesto
+In a network flooded by synthetic intelligence, trust requires proof of biology. However, we believe you shouldn't have to trade your face, your iris, or your government ID to prove you are human.
+
+**0xHuman** verifies the *act* of humanity, not the *actor*. We validate your existence through trust and physical entropy, not biometric surveillance.
+
+### ⚙️ Core Mechanics
+
+#### 1. The Human Chain (Uplink / Downlink)
+We are replacing the centralized authority with a biological blockchain of trust.
+* **Uplink:** The node that validates you.
+* **Downlink:** The node you are responsible for.
+* **The Link:** A permanent, on-chain bond. If a Downlink is proven to be a bot, their Uplink faces economic penalties. This creates a self-policing network where reputation has financial weight.
+
+#### 2. Sovereign Verification (Method Agnostic)
+The protocol does not dictate *how* verification occurs, only the economic consequences of a false one.
+* **Dynamic Validation:** The specific proof of humanity is established between peers. This variability renders standardized AI attacks ineffective.
+* **Privacy First:** Verification happens off-protocol (Signal, P2P, In-person). 0xHuman only records the settlement (The Signature).
+* **Anti-Abuse:** Safeguards against Uplink abuse and coercion are integral to the protocol's logic, ensuring verification remains fair and consensual.
+
+#### 3. Permissionless Access
+Anyone can acquire the token ($0xH). Only those who stake value ("Vital Bond") and pass the verification challenge receive the **0xPassport** (SBT).
+
+---
 
 ### 🛠 Architecture
-* **0xPassport (SBT):** ERC-5192 Non-transferable token.
-* **Proof of Liveness:** Client-side biometric verification (Privacy preserving).
-* **Social Staking:** Trust-based onboarding graph.
+
+* **0xPassport:** ERC-5192 Non-transferable Identity Token.
+* **Vault:** Time-locked staking contract for Vital Bonds.
+* **Graph Protocol:** On-chain mapping of Uplink/Downlink relationships.
 
 ### 📍 Roadmap
-- [ ] **Phase 0:** Protocol Design & Whitepaper (Current)
-- [ ] **Phase 1:** Testnet Deployment (**Polygon**)
+
+- [ ] **Phase 0:** Protocol Design & Logic (Current)
+- [ ] **Phase 1:** Testnet Deployment (Staking & SBT Contracts)
 - [ ] **Phase 2:** Genesis Mint
-- [ ] **Phase 3:** Governance DAO Launch
+- [ ] **Phase 3:** Network Expansion
 
 ---
 <div align="center">
-  <sub>Built with 🖤 by the 0xHuman Core Team.</sub>
+  <sub>Technology for humans, by humans.</sub>
 </div>
