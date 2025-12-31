@@ -7,21 +7,19 @@
     <style>
         /* ESTILOS A PRUEBA DE FALLOS */
         body {
-            background-color: #e6e2d3; /* Color Cartón de fondo */
+            background-color: #fdfbf7; /* Fondo unificado color Papel Hueso */
             color: #000000;            /* Tinta Negra */
             font-family: 'Courier New', Courier, monospace; /* Tipografía Máquina */
             margin: 0;
-            padding: 20px;
+            padding: 0;
         }
 
-        /* La hoja de papel central */
+        /* Contenedor central (sin bordes) */
         .hoja {
-            background-color: #fdfbf7; /* Papel Hueso */
             max-width: 650px;
-            margin: 20px auto;
-            padding: 40px;
-            border: 3px solid #000000; /* Borde Negro Grueso */
-            box-shadow: 10px 10px 0px 0px #000000; /* Sombra sólida */
+            margin: 0 auto;
+            padding: 40px 20px;
+            /* Se han eliminado borde y sombra */
         }
 
         /* Imagen Banner */
@@ -79,19 +77,20 @@
             margin-bottom: 20px;
         }
 
-        /* Botón Grande */
+        /* Botones Grandes */
         .boton {
             display: inline-block;
             background-color: #000;
             color: #fff;
-            padding: 15px 40px;
+            padding: 15px 30px; /* Ajustado ligeramente */
             text-decoration: none;
             font-weight: bold;
-            font-size: 1.1rem;
+            font-size: 1rem;
             border: 2px solid #000;
             text-transform: uppercase;
-            margin-top: 20px;
+            margin: 10px; /* Espacio entre botones */
             cursor: pointer;
+            min-width: 160px; /* Para que tengan tamaño similar */
         }
         .boton:hover {
             background-color: #fff;
@@ -109,8 +108,8 @@
 
         /* Móvil */
         @media (max-width: 600px) {
-            .hoja { padding: 20px; margin: 0; box-shadow: none; }
             h1.brand-name { font-size: 2.5rem; }
+            .boton { display: block; margin: 10px auto; width: fit-content; }
         }
     </style>
 </head>
@@ -157,10 +156,10 @@
         </div>
 
         <div style="text-align: center; margin: 50px 0;">
-            <p style="margin-bottom: 10px; font-weight: bold;">HELLO HUMAN</p>
+            <p style="margin-bottom: 20px; font-weight: bold;">WELCOME HUMAN</p>
+            
             <a href="https://x.com/0xhuman_io" class="boton">FOLLOW ON X</a>
-            <br><br>
-            <a href="https://github.com/0xhuman-io" style="color: black; font-weight: bold;">View on GitHub</a>
+            <a href="https://github.com/0xhuman-io" class="boton">VIEW ON GITHUB</a>
         </div>
 
         <div class="footer">
